@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a **Web Developer** | **Blockchain Developer** | **Natural Language Processing Enthusiast** (PNL). I’m passionate about building innovative solutions that combine **technology** and **social impact**.
+I'm a **Web Developer** | Administradora Empresarial | Estudiante de Ingeniería Informática | Especialista en Administración y Data Science | Coordinadora de proyectos en el Registro Civil | I’m passionate about building innovative solutions that combine **technology** and **social impact**.
 
 ---
 
