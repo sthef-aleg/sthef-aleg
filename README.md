@@ -12,8 +12,8 @@ I'm a **Web Developer** | Administradora Empresarial | Estudiante de Ingeniería
 | ------------ | ----------- |
 | **Python**     | ⭐⭐⭐⭐⭐       |
 | **CSS**        | ⭐⭐⭐⭐⭐       |
-| **JavaScript** | ⭐⭐⭐⭐      |
-| **React**      | ⭐⭐⭐⭐        |
+| **JavaScript** | ⭐⭐⭐⭐         |
+
 
 
 ---
