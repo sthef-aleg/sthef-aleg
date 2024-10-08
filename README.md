@@ -1,6 +1,6 @@
 # Hi, I'm @sthef-aleg 👋
 
-![Profile Image](https://github.com/sthef-aleg/profile-image.png) <!-- Reemplaza este enlace con el de tu imagen -->
+
 
 ## 🚀 About Me
 I'm a **Web Developer** | **Blockchain Developer** | **Natural Language Processing Enthusiast** (PNL). I’m passionate about building innovative solutions that combine **technology** and **social impact**.
@@ -10,12 +10,11 @@ I'm a **Web Developer** | **Blockchain Developer** | **Natural Language Processi
 ## 🔧 Skills
 | Skill        | Proficiency |
 | ------------ | ----------- |
-| **HTML**     | ⭐⭐⭐⭐⭐       |
-| **CSS**      | ⭐⭐⭐⭐⭐       |
-| **JavaScript**| ⭐⭐⭐⭐⭐      |
-| **React**    | ⭐⭐⭐⭐        |
-| **Python**   | ⭐⭐⭐⭐        |
-| **Blockchain**| ⭐⭐⭐⭐       |
+| **Python**     | ⭐⭐⭐⭐⭐       |
+| **CSS**        | ⭐⭐⭐⭐⭐       |
+| **JavaScript** | ⭐⭐⭐⭐      |
+| **React**      | ⭐⭐⭐⭐        |
+
 
 ---
 
@@ -34,7 +33,8 @@ I'm a **Web Developer** | **Blockchain Developer** | **Natural Language Processi
 ## 💬 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/sthef-aleg)
 - [GitHub](https://github.com/sthef-aleg)
-- [Email Me](mailto:sthef-aleg@gmail.com)
+- [Email Me](mailto:sthefalegre@gmail.com)
+- [Instagram](https://www.instagram.com/sthefanyalegre/)
 
 ---
 
