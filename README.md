@@ -10,9 +10,9 @@ I'm a **Web Developer** | Administradora Empresarial | Estudiante de Ingeniería
 ## 🔧 Skills
 | Skill        | Proficiency |
 | ------------ | ----------- |
-| **Python**     | ⭐⭐⭐⭐⭐       |
-| **CSS**        | ⭐⭐⭐⭐⭐       |
-| **JavaScript** | ⭐⭐⭐⭐         |
+| **Python**     | ⭐⭐⭐⭐       |
+| **CSS**        | ⭐⭐⭐       |
+| **JavaScript** | ⭐⭐⭐         |
 
 
 
