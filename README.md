@@ -43,8 +43,7 @@ I recently worked on a project to improve **digital accessibility** through tech
 
 ---
 
-### 🎯 Goal:
-To join a **cutting-edge team** where I can contribute my skills in **web development** and continue growing in the field of **AI** and **blockchain technologies**.
+### 🎯 Goal: To join an innovative development team where I can continue growing professionally, contribute my programming skills, and learn from top professionals in the field.
 
 <!---
 sthef-aleg/sthef-aleg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
